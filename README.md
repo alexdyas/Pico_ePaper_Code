@@ -1,4 +1,9 @@
 # Pico_ePaper_Code
+
+Modifications to :
+- add build script
+- hard code for for 3.7" display
+
 ## waveshare electronics
 ![waveshare_logo.png](waveshare_logo.png)
 
